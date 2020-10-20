@@ -1,0 +1,15 @@
+C:\Users\conno\source\repos\Vatsim Trafic and ATC\Vatsim Trafic and ATC\bin\Debug\netcoreapp3.1\Vatsim Trafic and ATC.exe
+C:\Users\conno\source\repos\Vatsim Trafic and ATC\Vatsim Trafic and ATC\bin\Debug\netcoreapp3.1\Vatsim Trafic and ATC.deps.json
+C:\Users\conno\source\repos\Vatsim Trafic and ATC\Vatsim Trafic and ATC\bin\Debug\netcoreapp3.1\Vatsim Trafic and ATC.runtimeconfig.json
+C:\Users\conno\source\repos\Vatsim Trafic and ATC\Vatsim Trafic and ATC\bin\Debug\netcoreapp3.1\Vatsim Trafic and ATC.runtimeconfig.dev.json
+C:\Users\conno\source\repos\Vatsim Trafic and ATC\Vatsim Trafic and ATC\bin\Debug\netcoreapp3.1\Vatsim Trafic and ATC.dll
+C:\Users\conno\source\repos\Vatsim Trafic and ATC\Vatsim Trafic and ATC\bin\Debug\netcoreapp3.1\Vatsim Trafic and ATC.pdb
+C:\Users\conno\source\repos\Vatsim Trafic and ATC\Vatsim Trafic and ATC\obj\Debug\netcoreapp3.1\Vatsim Trafic and ATC.csprojAssemblyReference.cache
+C:\Users\conno\source\repos\Vatsim Trafic and ATC\Vatsim Trafic and ATC\obj\Debug\netcoreapp3.1\Vatsim Trafic and ATC.AssemblyInfoInputs.cache
+C:\Users\conno\source\repos\Vatsim Trafic and ATC\Vatsim Trafic and ATC\obj\Debug\netcoreapp3.1\Vatsim Trafic and ATC.AssemblyInfo.cs
+C:\Users\conno\source\repos\Vatsim Trafic and ATC\Vatsim Trafic and ATC\obj\Debug\netcoreapp3.1\Vatsim Trafic and ATC.csproj.CoreCompileInputs.cache
+C:\Users\conno\source\repos\Vatsim Trafic and ATC\Vatsim Trafic and ATC\obj\Debug\netcoreapp3.1\Vatsim Trafic and ATC.dll
+C:\Users\conno\source\repos\Vatsim Trafic and ATC\Vatsim Trafic and ATC\obj\Debug\netcoreapp3.1\Vatsim Trafic and ATC.pdb
+C:\Users\conno\source\repos\Vatsim Trafic and ATC\Vatsim Trafic and ATC\obj\Debug\netcoreapp3.1\Vatsim Trafic and ATC.genruntimeconfig.cache
+C:\Users\conno\source\repos\Vatsim Trafic and ATC\Vatsim Trafic and ATC\obj\Debug\netcoreapp3.1\Vatsim_Trafic_and_ATC.Form1.resources
+C:\Users\conno\source\repos\Vatsim Trafic and ATC\Vatsim Trafic and ATC\obj\Debug\netcoreapp3.1\Vatsim Trafic and ATC.csproj.GenerateResource.cache
